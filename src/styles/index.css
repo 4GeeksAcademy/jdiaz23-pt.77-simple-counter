@@ -9,3 +9,14 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.row {
+    font-size: 100px;
+    background-color: black;
+    color: red;
+    border-color: blue;
+    border-style: ridge;
+}
+.col {
+    border-color: blue;
+    border-style: ridge;
+}
